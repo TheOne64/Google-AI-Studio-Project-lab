@@ -4,14 +4,14 @@
 Developed an AI-powered study planner using Google AI studio as part of the Google Ai Professional Certificate Course.
 
 ## Features
-Track courses
-Monitor Study hours 
-View upcoming deadlines 
+- Track courses
+- Monitor Study hours 
+- View upcoming deadlines 
 
 ## Technology
-Google AI Studio
-Gemini
-Prompt Engineering
+- Google AI Studio
+- Gemini
+- Prompt Engineering
 
-## Dashboard
-![Dashboard](
+## Live Demon
+[View the app here](https://ai.studio/apps/522e88f6-8c51-4f86-9325-a1da7165e03e)

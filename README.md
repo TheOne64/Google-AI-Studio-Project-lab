@@ -13,5 +13,5 @@ Developed an AI-powered study planner using Google AI studio as part of the Goog
 - Gemini
 - Prompt Engineering
 
-## Live Demon
+## Live Demo
 [View the app here](https://ai.studio/apps/522e88f6-8c51-4f86-9325-a1da7165e03e)
